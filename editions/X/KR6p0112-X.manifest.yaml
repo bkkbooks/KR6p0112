@@ -1,0 +1,268 @@
+canonical_identifier: bkk:krp/KR6p0112/X/v1
+canonical_location: https://kanripo.org/bkk/KR6p0112/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 蓮邦消息
+  identifiers:
+    krp: KR6p0112
+    cbeta: X62n1193
+    cbeta_old_id: X62n1193
+    authorityid: CA0002045
+    json_key: X1193
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1193.xml
+    old_id: X62n1193
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0112_000-X.yaml, hash: 'sha256:b07b0058863a3d79a420ea4087d62e5b72710620dba9bd1579ba890522431ab1'}
+  - {seq: 1, filename: KR6p0112_001-X.yaml, hash: 'sha256:fd3b27d135cbc7a72ff324988e60621a717b783893a200a1580de6c6ba228b94'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0112_000-X.markers.yaml, hash: 'sha256:d993240886f538f38ff63bd15e5b9b6cb2d50630cea73dd8a2671137a235cc1b'}
+  - {seq: 1, role: markers, filename: assets/KR6p0112_001-X.markers.yaml, hash: 'sha256:bb1ebe3977b137fa7541f59d10aaf6ffd90ff732b186e92f2a6b6e4d11c7dc08'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0112_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1193-A 蓮󳬛消息
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0112_X_000-mulu-2
+    span:
+    - front
+    - 256
+    - 256
+  label: 蓮󳬛消息目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0112_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 15234
+  label: 蓮邦消息
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0112_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 性相光明品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0112_X_001-mulu-2
+    span:
+    - body
+    - 7
+    - 7
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0112_X_001-mulu-3
+    span:
+    - body
+    - 962
+    - 962
+  label: 圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0112_X_001-mulu-4
+    span:
+    - body
+    - 962
+    - 962
+  label: 小世界圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0112_X_001-mulu-5
+    span:
+    - body
+    - 1047
+    - 1047
+  label: 小千世界圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0112_X_001-mulu-6
+    span:
+    - body
+    - 1111
+    - 1111
+  label: 中千世界圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0112_X_001-mulu-7
+    span:
+    - body
+    - 1176
+    - 1176
+  label: 大千世界圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0112_X_001-mulu-8
+    span:
+    - body
+    - 1248
+    - 1248
+  label: 剎塵世界圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0112_X_001-mulu-9
+    span:
+    - body
+    - 1313
+    - 1313
+  label: 一蓮花世界海圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0112_X_001-mulu-10
+    span:
+    - body
+    - 1398
+    - 1398
+  label: 後文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0112_X_001-mulu-11
+    span:
+    - body
+    - 2350
+    - 2350
+  label: 背覺合塵品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0112_X_001-mulu-12
+    span:
+    - body
+    - 3628
+    - 3628
+  label: 消息輪回品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0112_X_001-mulu-13
+    span:
+    - body
+    - 4391
+    - 4391
+  label: 淨土因緣品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0112_X_001-mulu-14
+    span:
+    - body
+    - 6035
+    - 6035
+  label: 精進無虧品第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0112_X_001-mulu-15
+    span:
+    - body
+    - 7495
+    - 7495
+  label: 定慧相隨品第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0112_X_001-mulu-16
+    span:
+    - body
+    - 9182
+    - 9182
+  label: 念念現前品第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0112_X_001-mulu-17
+    span:
+    - body
+    - 10815
+    - 10815
+  label: 往生入位品第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0112_X_001-mulu-18
+    span:
+    - body
+    - 12290
+    - 12290
+  label: 身土圓融品第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0112_X_001-mulu-19
+    span:
+    - body
+    - 13251
+    - 13251
+  label: 附
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0112_X_001-mulu-20
+    span:
+    - body
+    - 13251
+    - 13251
+  label: No. 1193-B 駐雲飛十首(戒十惡也)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0112_X_001-mulu-21
+    span:
+    - body
+    - 14449
+    - 14449
+  label: No. 1193-C 臨江仙
+  type: mulu
+  level: 1
+hash: sha256:e91f20809dd15034816692d0d42781b5b2d6cc66d6380794f31222ef06dab045
