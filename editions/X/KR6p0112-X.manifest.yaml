@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0112_000-X.yaml, hash: 'sha256:b07b0058863a3d79a420ea4087d62e5b72710620dba9bd1579ba890522431ab1'}
+  - {seq: 0, filename: KR6p0112_000-X.yaml, hash: 'sha256:926a4a3bc67fe24ff525a1d2faf75e8ff12edc0cbf25557cc807784b681af795'}
   - {seq: 1, filename: KR6p0112_001-X.yaml, hash: 'sha256:fd3b27d135cbc7a72ff324988e60621a717b783893a200a1580de6c6ba228b94'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0112_000-X.markers.yaml, hash: 'sha256:d993240886f538f38ff63bd15e5b9b6cb2d50630cea73dd8a2671137a235cc1b'}
+  - {seq: 0, role: markers, filename: assets/KR6p0112_000-X.markers.yaml, hash: 'sha256:84823b53ea7d7b7bad908709f8e9ba615b2a620c0434116d9b28bf72d9361cd9'}
   - {seq: 1, role: markers, filename: assets/KR6p0112_001-X.markers.yaml, hash: 'sha256:bb1ebe3977b137fa7541f59d10aaf6ffd90ff732b186e92f2a6b6e4d11c7dc08'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0112_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1193-A 蓮󳬛消息
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0112_X_000-mulu-2
     span:
-    - front
+    - body
     - 256
     - 256
   label: 蓮󳬛消息目次
@@ -265,4 +265,4 @@ table_of_contents:
   label: No. 1193-C 臨江仙
   type: mulu
   level: 1
-hash: sha256:e91f20809dd15034816692d0d42781b5b2d6cc66d6380794f31222ef06dab045
+hash: sha256:678e8b5c6bf971dd271892013c48af76f1d7cd9c78a97cafa93915fdc367aeb8
